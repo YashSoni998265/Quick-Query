@@ -3,59 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>QuickQuery README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    h1 {
-      border-bottom: 2px solid #3498db;
-      padding-bottom: 10px;
-    }
-    h2 {
-      margin-top: 20px;
-    }
-    ul, ol {
-      margin: 10px 0;
-      padding-left: 20px;
-    }
-    li {
-      margin-bottom: 8px;
-    }
-    .highlight {
-      background-color: #e8f4f8;
-      padding: 2px 5px;
-      border-radius: 3px;
-      font-weight: bold;
-      color: #2c3e50;
-    }
-    .code {
-      background-color: #f4f4f4;
-      padding: 10px;
-      border-radius: 5px;
-      font-family: 'Courier New', Courier, monospace;
-      overflow-x: auto;
-    }
-    .note {
-      color: #e74c3c;
-      font-style: italic;
-    }
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
   <h1>QuickQuery</h1>
